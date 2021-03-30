@@ -4,10 +4,10 @@
 simple explanation about the web application and used technologies
 
 ## Contributors
-- Kyle
-- Sam
-- Ian
-- Riheel
+- [Kyle Rather](https://github.com/krather7)
+- [Riheel H.](https://github.com/riheelh)
+- [Samuel Roth](https://github.com/samuel6roth)
+- [Ian Fletcher](https://github.com/ianfletcher314)
 
 ## User Story
 ```md
