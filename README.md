@@ -54,7 +54,7 @@ step by step of application use
 ![alt text](Assets/screen-shot01.PNG)
 
 ​
-[Check Out The Full Page](https://samuel6roth.github.io/HoroscopeFinder/)
+[Check Out The Full Page](https://krather7.github.io/HoroscopeFinder/)
 ​
 ## Credits
 ​
